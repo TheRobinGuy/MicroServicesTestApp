@@ -2,13 +2,14 @@ package IonicApps.TestService.Entities;
 
 import javax.inject.Inject;
 import javax.inject.Named;
-import javax.persistence.Entity;
-import javax.persistence.Table;
+import javax.persistence.*;
 
 @Entity
-@Named
 @Table(name="User")
 public class User {
+    @Id
+    @GeneratedValue(strategy=GenerationType.AUTO)
+    private Long id;
     private String UserName;
     private String Password;
 

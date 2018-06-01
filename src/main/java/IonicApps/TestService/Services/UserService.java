@@ -1,5 +1,6 @@
 package IonicApps.TestService.Services;
 
+import IonicApps.TestService.Entities.User;
 import IonicApps.TestService.Repos.UserRepository;
 
 import javax.inject.Inject;
@@ -10,5 +11,9 @@ public class UserService {
     @Inject
     public UserService(UserRepository userRepository) {
         this.userRepository = userRepository;
+    }
+
+    public User getByUserName(){
+        return userRepository.getByUserName();
     }
 }
