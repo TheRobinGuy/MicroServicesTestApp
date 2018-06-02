@@ -4,7 +4,9 @@ import IonicApps.TestService.Entities.User;
 import IonicApps.TestService.Repos.UserRepository;
 
 import javax.inject.Inject;
+import javax.inject.Named;
 
+@Named
 public class UserService {
     private final UserRepository userRepository;
 

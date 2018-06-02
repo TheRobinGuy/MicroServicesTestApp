@@ -1,1 +1,7 @@
+IonicApps/TestService/ComponentScanner.class
+IonicApps/TestService/Entities/User$UserBuilder.class
+IonicApps/TestService/Services/UserService.class
+IonicApps/TestService/Controllers/UserController.class
+IonicApps/TestService/Entities/User.class
+IonicApps/TestService/Repos/UserRepository.class
 IonicApps/TestService/TestServiceApplication.class

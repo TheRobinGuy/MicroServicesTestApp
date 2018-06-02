@@ -1,1 +1,6 @@
+/home/robin/dev/java/TestService/src/main/java/IonicApps/TestService/ComponentScanner.java
+/home/robin/dev/java/TestService/src/main/java/IonicApps/TestService/Repos/UserRepository.java
 /home/robin/dev/java/TestService/src/main/java/IonicApps/TestService/TestServiceApplication.java
+/home/robin/dev/java/TestService/src/main/java/IonicApps/TestService/Services/UserService.java
+/home/robin/dev/java/TestService/src/main/java/IonicApps/TestService/Entities/User.java
+/home/robin/dev/java/TestService/src/main/java/IonicApps/TestService/Controllers/UserController.java
