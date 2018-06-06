@@ -1,0 +1,16 @@
+com/mycompany/app/repository/ProductRepo.class
+com/mycompany/app/App.class
+com/mycompany/app/services/ProductService.class
+com/mycompany/app/services/SalesService.class
+com/mycompany/app/entities/Product.class
+com/mycompany/app/entities/Inventory.class
+com/mycompany/app/services/InventoryService.class
+com/mycompany/app/restful/ProductController.class
+com/mycompany/app/common/ProductDto$ProductBuilder.class
+com/mycompany/app/componentscan/ComponentScan.class
+com/mycompany/app/common/InventoryDto.class
+com/mycompany/app/common/ProductDto.class
+com/mycompany/app/swagger/swaggerConfig.class
+com/mycompany/app/repository/InventoryRepo.class
+com/mycompany/app/common/ConvertEntityToDTO.class
+com/mycompany/app/services/ShoppingCartService.class

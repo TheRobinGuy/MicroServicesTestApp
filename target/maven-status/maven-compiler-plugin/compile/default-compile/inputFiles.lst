@@ -1,0 +1,15 @@
+/home/glenn/Documents/dev/challenge/src/main/java/com/mycompany/app/entities/Inventory.java
+/home/glenn/Documents/dev/challenge/src/main/java/com/mycompany/app/restful/ProductController.java
+/home/glenn/Documents/dev/challenge/src/main/java/com/mycompany/app/services/ShoppingCartService.java
+/home/glenn/Documents/dev/challenge/src/main/java/com/mycompany/app/componentscan/ComponentScan.java
+/home/glenn/Documents/dev/challenge/src/main/java/com/mycompany/app/swagger/swaggerConfig.java
+/home/glenn/Documents/dev/challenge/src/main/java/com/mycompany/app/services/InventoryService.java
+/home/glenn/Documents/dev/challenge/src/main/java/com/mycompany/app/common/ConvertEntityToDTO.java
+/home/glenn/Documents/dev/challenge/src/main/java/com/mycompany/app/repository/InventoryRepo.java
+/home/glenn/Documents/dev/challenge/src/main/java/com/mycompany/app/services/ProductService.java
+/home/glenn/Documents/dev/challenge/src/main/java/com/mycompany/app/common/InventoryDto.java
+/home/glenn/Documents/dev/challenge/src/main/java/com/mycompany/app/entities/Product.java
+/home/glenn/Documents/dev/challenge/src/main/java/com/mycompany/app/repository/ProductRepo.java
+/home/glenn/Documents/dev/challenge/src/main/java/com/mycompany/app/App.java
+/home/glenn/Documents/dev/challenge/src/main/java/com/mycompany/app/services/SalesService.java
+/home/glenn/Documents/dev/challenge/src/main/java/com/mycompany/app/common/ProductDto.java
